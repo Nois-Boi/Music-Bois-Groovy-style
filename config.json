@@ -1,0 +1,34 @@
+{
+  "default_prefix" : "a/",
+ "owner" :  ["761510616573542400"],
+ "DB": "mongodb+srv://user:YaAjyu26KaPt9pi1@cluster0.hmwwh.mongodb.net/Public2?retryWrites=true&w=majority",
+"log":  "882887454401638412", 
+"spotifyID" : "3c772cb0fa1642159603a1c897ddbfaf",
+"spotifySecret": "f1c4d9fce1d44fc4bf93145b8b3b2ed5",
+"nodes":[
+    
+    
+    {
+     "host": "main.paras888.repl.co", 
+     "port": 443, 
+      "password": "youshallnotpass", 
+      "secure": true
+    
+      
+      
+    },
+      {
+     "host": "lavalink-repl.parasop.repl.co",
+      "port": 443, 
+      "password": "youshallnotpass", 
+      "secure": true
+    },
+      {
+     "host": "lava.link",
+      "port": 80, 
+      "password": "solarop"
+        }
+    
+    ]
+  
+}
